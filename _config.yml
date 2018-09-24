@@ -1,6 +1,6 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: null
@@ -22,13 +22,13 @@ post_limit: 5
 
 
 title : Cantemir Debate Club
-tagline: Bootstrap 4 UI kit for jekyll
+tagline: O comunitate de elevi, studenti si profesori care au gasit in dezbaterile academice o platforma placuta de exprimare prin intermediul ARDOR.
 author : 
   name : Cantemir Debate Club
   site: https://cantemirdebate.club
-  description : x.
+  description : O comunitate de elevi, studenti si profesori care au gasit in dezbaterile academice o platforma placuta de exprimare prin intermediul ARDOR.
   image : social-image.png
-  email : lantoniotrento@gmail.com
+  email :  contact@cantemirdebate.club
   facebook: cantemirdebate
 
 # The production_url is only used when full-domain names are needed
