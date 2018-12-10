@@ -3,7 +3,7 @@ layout: post
 category : tournament
 tagline: "Debate bootcamp."
 tags : [cedebepe, bp, cantemir, debate]
-img : spring_camp.png
+img : spring_camp.jpg
 img2 : 
 img3 : 
 author : Cantemir Debate Club
