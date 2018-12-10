@@ -3,7 +3,7 @@ layout: post
 category : tournament
 tagline: "The most innovative Romanian debate tournament."
 tags : [cdx, cantemir, debate, extravaganza]
-img : markdown-samples.jpg
+img : cdxxx.png
 img2 : 
 img3 : 
 author : Cantemir Debate Club
@@ -23,4 +23,4 @@ With its first edition back in 2013, when our founding members decided that Cant
 
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCantemirDebate%2F&tabs=events&width=0&height=0&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="0" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-```
+
