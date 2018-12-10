@@ -13,7 +13,7 @@ css:
 js: 
 bgcolor: 
 keywords: cdx, cantemir, debate, extravaganza, tournament, dezbateri academice, ardor
-canonical: 
+canonical: cantemirdebate.club/en/spring-camp
 
 ---
 {% include JB/setup %}
