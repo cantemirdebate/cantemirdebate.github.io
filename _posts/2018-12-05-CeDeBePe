@@ -1,0 +1,24 @@
+---
+layout: post
+category : tournament
+tagline: "Tournament for university students."
+tags : [cedebepe, bp, cantemir, debate]
+img : cdbp.png
+img2 : 
+img3 : 
+author : Cantemir Debate Club
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: cdx, cantemir, debate, extravaganza, tournament, dezbateri academice, ardor
+canonical: 
+
+---
+{% include JB/setup %}
+Placeholder!
+
+Check out our latest Facebook event:
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fevents%2F1695736093797084%2Fpermalink%2F1696646790372681%2F&width=500&show_text=true&height=311&appId" width="500" height="311" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
