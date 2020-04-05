@@ -1,6 +1,6 @@
 # Cantemir Debate Club
 
-### Debate Club NGO presentation website. Live at [cantemirdebate.club](cantemirdebate.club).
+### Debate Club NGO presentation website. Live at [cantemirdebate.club](cantemirdebate.club)
 
 Built with love by [Said Sakuh](https://github.com/hecz0r) using Jekyll.
 
