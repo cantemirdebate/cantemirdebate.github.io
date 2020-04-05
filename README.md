@@ -1,4 +1,4 @@
-# cantemirdebate.club website source
+# Cantemir Debate Club
 
 Debate Club NGO presentation website.
 
